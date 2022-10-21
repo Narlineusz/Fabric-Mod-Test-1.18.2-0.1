@@ -1,0 +1,6 @@
+{
+    "parent": "test_mod:item/nature_bow",
+    "textures": {
+        "layer0": "test_mod:item/nature_bow_pulling_1"
+    }
+}
