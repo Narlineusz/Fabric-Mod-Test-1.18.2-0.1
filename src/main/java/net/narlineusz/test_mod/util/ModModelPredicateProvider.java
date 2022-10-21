@@ -1,9 +1,9 @@
-package util;
+package net.narlineusz.test_mod.util;
 
 import net.fabricmc.fabric.api.object.builder.v1.client.model.FabricModelPredicateProviderRegistry;
+import net.narlineusz.test_mod.item.ModItems;
 import net.minecraft.item.Item;
 import net.minecraft.util.Identifier;
-import net.narlineusz.test_mod.item.ModItems;
 
 public class ModModelPredicateProvider {
     public static void registerModModels() {

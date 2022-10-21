@@ -1,7 +1,7 @@
 package net.narlineusz.test_mod;
 
 import net.fabricmc.api.ClientModInitializer;
-import util.ModModelPredicateProvider;
+import net.narlineusz.test_mod.util.ModModelPredicateProvider;
 
 public class TestClientMod implements ClientModInitializer {
     @Override

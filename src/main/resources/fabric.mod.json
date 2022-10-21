@@ -18,9 +18,8 @@
 
   "environment": "*",
   "entrypoints": {
-    "main": [
-      "net.narlineusz.test_mod.Test_Mod"
-    ]
+    "main": ["net.narlineusz.test_mod.Test_Mod"],
+    "client": ["net.narlineuzs.test_mod.TestClientMod"]
   },
   "mixins": [
     "test_mod.mixins.json"
